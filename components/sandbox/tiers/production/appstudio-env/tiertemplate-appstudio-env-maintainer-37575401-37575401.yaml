@@ -12,7 +12,8 @@ spec:
   template:
     apiVersion: template.openshift.io/v1
     kind: Template
-    metadata: {}
+    metadata:
+      creationTimestamp: null
     objects: []
   tierName: appstudio-env
   type: maintainer

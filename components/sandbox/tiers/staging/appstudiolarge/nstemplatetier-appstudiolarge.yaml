@@ -11,14 +11,14 @@ spec:
   clusterResources:
     templateRef: appstudiolarge-clusterresources-2128555184-593233715
   namespaces:
-  - templateRef: appstudiolarge-tenant-2128555184-3035149355
+  - templateRef: appstudiolarge-tenant-2128555184-3638092420
   spaceRoles:
     admin:
-      templateRef: appstudiolarge-admin-2128555184-2267910203
+      templateRef: appstudiolarge-admin-2128555184-1621311634
     contributor:
-      templateRef: appstudiolarge-contributor-2128555184-2153673317
+      templateRef: appstudiolarge-contributor-2128555184-923669109
     maintainer:
-      templateRef: appstudiolarge-maintainer-2128555184-1446367252
+      templateRef: appstudiolarge-maintainer-2128555184-664949573
     viewer:
       templateRef: appstudiolarge-viewer-2128555184-3768244154
 status: {}

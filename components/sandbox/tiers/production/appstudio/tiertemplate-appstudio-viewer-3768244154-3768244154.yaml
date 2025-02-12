@@ -12,7 +12,8 @@ spec:
   template:
     apiVersion: template.openshift.io/v1
     kind: Template
-    metadata: {}
+    metadata:
+      creationTimestamp: null
     objects:
     - apiVersion: rbac.authorization.k8s.io/v1
       kind: Role
