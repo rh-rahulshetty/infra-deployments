@@ -245,13 +245,13 @@ parameters:
 - name: SPACE_NAME
   required: true
 - name: MEMORY_LIMIT
-  value: "32Gi"
+  value: "310Gi"
 - name: MEMORY_REQUEST
   value: "32Gi"
 - name: CPU_BUILD_REQUEST
   value: "60"
 - name: MEMORY_BUILD_LIMIT
-  value: "128Gi"
+  value: "310Gi"
 - name: MEMORY_BUILD_REQUEST
   value: "64Gi"
 - name: COUNT_PVC
