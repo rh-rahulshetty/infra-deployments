@@ -11,7 +11,7 @@ spec:
   clusterResources:
     templateRef: appstudio-env-clusterresources-1854252301-1854252301
   namespaces:
-  - templateRef: appstudio-env-env-1082365650-1082365650
+  - templateRef: appstudio-env-env-2865896301-2865896301
   spaceRequestConfig:
     serviceAccountName: namespace-manager
   spaceRoles:

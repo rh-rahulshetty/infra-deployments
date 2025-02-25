@@ -221,10 +221,10 @@ parameters:
 - name: SPACE_NAME
   required: true
 - name: MEMORY_LIMIT
-  value: "32Gi"
+  value: "384Gi"
 - name: MEMORY_REQUEST
   value: "32Gi"
 - name: MEMORY_BUILD_LIMIT
-  value: "64Gi"
+  value: "384Gi"
 - name: MEMORY_BUILD_REQUEST
   value: "32Gi"
