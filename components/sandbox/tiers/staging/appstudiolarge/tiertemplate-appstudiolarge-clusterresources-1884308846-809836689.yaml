@@ -23,7 +23,6 @@ spec:
           hard:
             count/deploymentconfigs.apps: ${{DEPLOYMENT_QUOTA}}
             count/deployments.apps: ${{DEPLOYMENT_QUOTA}}
-            count/pods: ${{POD_QUOTA}}
         selector:
           annotations: null
           labels:
